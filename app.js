@@ -64,6 +64,7 @@ function introducirNombre(user){
              break;
       }
       <!--Zona Score-->
+      <!---->
       zonaSco.innerHTML = "Felicidades. Tu score es: "+score+"/3.";<!--Detiene el conteo y lo imprime en html-->
       <!---->
   }else { <!--El usuario no desea jugar, despide al usuario-->
